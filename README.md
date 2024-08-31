@@ -53,6 +53,8 @@ UX/UI|Data|DevOps|QA
 Estudo e desenvolvimento da identidade visual (Formas, Paletas de cores, OBS: Acessibilidade para Daltonicos / Baixa Visão) | Estrutura do banco de dados (MySQL)| Configuração do servidor: linux / MySQL (Até dia 30/08/2024) | Configuração do GitHub; <br> Teste e Verificação de funcionamento do servidor
 
 <br>
+<br>
+<hr>
 
 ## Sprint 02 - Semana: DE 09/09 A 20/09
 
@@ -83,6 +85,8 @@ UX/UI|Data|DevOps|QA
 Estudo e validação do conceito de telas criadas pelos SQUADS 1, 2 e 3 (Controle de Qualidade UX/UI) | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
 
 <br>
+<br>
+<hr>
 
 ## Sprint 03 - Semana: DE 23/09 A 04/10
 
@@ -113,6 +117,8 @@ UX/UI|Data|DevOps|QA
 Estudo e validação do conceito de telas criadas pelos SQUADS 1, 2 e 3 (Controle de Qualidade UX/UI) | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
 
 <br>
+<br>
+<hr>
 
 ## Sprint 04 - Semana: DE 07/10 A 18/10
 
@@ -142,6 +148,8 @@ UX/UI|Data|DevOps|QA
 Estudo e validação do conceito de telas criadas pelos SQUADS 1, 2 e 3 (Controle de Qualidade UX/UI) | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
 
 <br>
+<br>
+<hr>
 
 ## Sprint 05 - Semana: DE 21/10 A 01/11
 
@@ -172,6 +180,8 @@ UX/UI|Data|DevOps|QA
 Estudo e validação do conceito de telas criadas pelos SQUADS 1, 2 e 3 (Controle de Qualidade UX/UI) | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
 
 <br>
+<br>
+<hr>
 
 ## Sprint 06 - Semana: DE 04/11 A 08/11
 
