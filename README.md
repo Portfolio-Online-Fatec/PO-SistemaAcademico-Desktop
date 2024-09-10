@@ -68,7 +68,7 @@ Inicio do desenvolvimento da estruturação das telas (Cadastro de Grade) | Cada
 ### SQUAD 02
 UX/UI|Front End|Back End
 ---|---|---
-Inicio do desenvolvimento da estruturação das telas (Boletim) | Cadastro de Turma e Curso (Crud Completo) |  Cadastro de Turma e Curso (Crud Completo)
+Inicio do desenvolvimento da estruturação das telas (Matícula) | Cadastro de Turma e Curso (Crud Completo) |  Cadastro de Turma e Curso (Crud Completo)
 
 <br>
 
@@ -177,7 +177,7 @@ Revisão das Telas Criadas (Correções a Análise dos apontamentos realizados p
 ### SQUAD 04
 UX/UI|Data|DevOps|QA
 ---|---|---|---
-Estudo e validação do conceito de telas criadas pelos SQUADS 1, 2 e 3 (Controle de Qualidade UX/UI) | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
+Criação do Pitch para divulgação no LinkdIn | Manutenção do banco de dados | Manutenção e Atualização do Servidor | Verificação de vulnerabilidades e Segurança de dados; <br> Atualização do GitHub Commits, etc.
 
 <br>
 <br>
